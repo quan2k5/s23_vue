@@ -1,0 +1,49 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "le anh quan",
+            "email": "lanhquan130@gmail.com",
+            "address": "vinh-nghe an",
+            "phone": "0915199074",
+            "status": false,
+            "createAt": ""
+        },
+        {
+            "id": 2,
+            "name": "nguyen van a",
+            "email": "nguyenvana@example.com",
+            "address": "ha noi",
+            "phone": "0912345678",
+            "status": true,
+            "createAt": ""
+        },
+        {
+            "id": 3,
+            "name": "tran thi b",
+            "email": "tranthib@example.com",
+            "address": "da nang",
+            "phone": "0938765432",
+            "status": false,
+            "createAt": ""
+        },
+        {
+            "id": 4,
+            "name": "hoang minh c",
+            "email": "hoangminhc@example.com",
+            "address": "tp ho chi minh",
+            "phone": "0987654321",
+            "status": true,
+            "createAt": ""
+        },
+        {
+            "id": 5,
+            "name": "pham thi d",
+            "email": "phamthid@example.com",
+            "address": "hai phong",
+            "phone": "0909876543",
+            "status": false,
+            "createAt": ""
+        }
+    ]
+}
